@@ -2,7 +2,6 @@
 package com.firefinchdev.swipetosearch
 
 import android.content.Intent
-import android.graphics.fonts.FontFamily
 import android.os.Bundle
 import android.provider.Settings
 import androidx.activity.ComponentActivity
