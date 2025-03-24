@@ -4,4 +4,6 @@
     <string name="app_description">This app automatically focuses the search field and opens the keyboard when you open your launcher\'s app drawer</string>
     <string name="open_accessibility_settings">Open Accessibility Settings</string>
     <string name="accessibility_settings_instruction">To enable this feature, tap the button below and enable \"Auto Keyboard Opener\" in the accessibility settings</string>
+    <string name="accessibility_permission_trouble">Having trouble enabling accessibility permission?</string>
+    <string name="help_dialog_title">Enable accessibility permission</string>
 </resources>
